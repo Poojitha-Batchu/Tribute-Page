@@ -1,6 +1,6 @@
-# OIBSIP-Level2-Task2
+# Tribute Page
 
-OIBSIP-Level2-Task2 -Tribute to Dr. APJ Abdul Kalam
+Tribute to Dr. APJ Abdul Kalam
 
 This repository contains a simple HTML page that serves as a tribute to Dr. APJ Abdul Kalam, the renowned Indian scientist and former President of India. The page includes a brief introduction to Dr. Kalam's life and contributions, along with an inspiring quote.
 
